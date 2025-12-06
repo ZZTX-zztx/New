@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -67,6 +66,6 @@
     </style>
 </head>
 <body>
-    <div class="colorful-text">Hello, 变色文字！</div>
+    <div class="colorful-text">Hello</div>
 </body>
 </html>
